@@ -260,6 +260,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 कहाँ जान्छस् मछली मेरै ढडिया    |   	Kaha jaanchhas machali merai dhadiya.
 कहिले सासूको पालो कहिले बुहारीको | Kahile saasu ko paalo kahile buhari ko | Life gives everyone a chance in their own time.
 कही नभाको जात्रा प्रग्या प्रतिस्ठानमा    |   	Kahi nabhayeko jaatraa pragya pritisthaan maa.
+काइता जाने माइत जान पाइन्छ   | Kaita jane maita jana painchha
 कांही नभएको जात्रा हाँडी गाउँमा    |   	Kahi navayeko jatra haadi gau maa.       |       Kei kaam pani thik sanga nahune.
 काका भन्नु र कान्छा बाऊ भन्नु एउटै कुरो हो    |   	Kaka bhannu ra kancha bau bhannu eutai kuro ho.
 काग कराउदै गर्छ, पिना सुक्दै गर्छ    |   	Kaag karaudai garchha, pinaa sukdai garcha. | Let the haters hate you always do what you want.
@@ -1019,3 +1020,4 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
 हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro   	|   	 Action not backing up the things you are saying. 
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.   	|   	Don't trust fortune tellers just like you can't trust people with diarrhea (alternately don't trust watchers or cowards)
+
